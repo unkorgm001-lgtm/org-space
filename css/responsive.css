@@ -285,9 +285,9 @@
   .layer:not(footer .layer) {
     transform: rotate(-90deg);
   }
-  .contact-us .layer,
+
   .about-sec .layer {
-    color: var(--layer-color-s);
+    color: var(--layer-color-m);
   }
   footer .layer {
     font-size: 2rem;
