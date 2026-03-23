@@ -111,7 +111,7 @@ footer:hover .layer {
 /* main section */
 main,
 footer {
-  overflow-x: hidden;
+  overflow: hidden;
 }
 /* Nav */
 nav {
